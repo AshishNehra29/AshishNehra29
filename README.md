@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Aaryan Singh Rawat</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Tech Explorer</h3>
+<h1 align="center">Hi there 👋, I'm Ashish Nehra</h1>
+<h3 align="center">🎮 Game Developer | 💻 Full Stack Developer | 🎬 Video Editor</h3>
 
 ---
 
