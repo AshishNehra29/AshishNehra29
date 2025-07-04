@@ -1,8 +1,11 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write  # <-- THIS gives GITHUB_TOKEN permission to push
+
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
