@@ -1,11 +1,11 @@
 name: Generate Snake Animation
 
 permissions:
-  contents: write  # <-- THIS gives GITHUB_TOKEN permission to push
+  contents: write
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
+          # Dark theme customization
+          color_snake: '#8A2BE2'  # purple snake
+          color_dots: '#444444,#333333,#222222,#111111,#000000'  # dark squares background
+          palette: '#39d353,#26a641,#006d32,#003d1a,#002211'  # green contribution gradient
 
       - name: Push snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v4
