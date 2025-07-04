@@ -29,9 +29,10 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+
 
 ![GitHub Snake](https://github.com/AshishNehra29/AshishNehra29/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ---
