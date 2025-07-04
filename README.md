@@ -1,10 +1,11 @@
+<img align="right" alt="Coding" width="1000" src="Among US.gif">
+
+---
+
 <h1 align="center">Hi there 👋, I'm Ashish Nehra</h1>
 <h3 align="center">🎮 Game Developer | 💻 Full Stack Developer | 🎬 Video Editor</h3>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="Among US.gif">
-
 
 - 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
 - 🔭 Currently working on: Full Stack Web Apps using MERN  
