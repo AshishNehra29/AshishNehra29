@@ -2,7 +2,6 @@
   <img src="among-us1gif" alt="Coding" width="100%" />
 </p>
 
-
 ---
 
 <h1 align="center">Hi there 👋, I'm Ashish Nehra</h1>
@@ -35,11 +34,7 @@
 
 ---
 
-
-
 ![GitHub Snake](https://github.com/AshishNehra29/AshishNehra29/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 
 ---
 
@@ -63,7 +58,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/AshishNehra29?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats Card" />
 </p>
----
 
 ### 🤝 Connect With Me
 
