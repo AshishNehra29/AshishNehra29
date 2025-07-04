@@ -63,13 +63,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/AshishNehra29?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats Card" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Easy-150-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="Easy Badge" />
-  <img src="https://img.shields.io/badge/Medium-100-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Medium Badge" />
-  <img src="https://img.shields.io/badge/Hard-50-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard Badge" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
