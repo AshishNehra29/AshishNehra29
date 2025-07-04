@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="among-us.gif" alt="Coding" width="100%" />
+  <img src="among-us1gif" alt="Coding" width="100%" />
 </p>
 
 
