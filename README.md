@@ -1,4 +1,7 @@
-<img align="right" alt="Coding" width="800" src="Among US.gif">
+<p align="center">
+  <img src="Among Us.gif" alt="Coding" width="100%" />
+</p>
+
 
 ---
 
