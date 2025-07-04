@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
           # Dark theme customization
           color_snake: '#8A2BE2'  # purple snake
           color_dots: '#444444,#333333,#222222,#111111,#000000'  # dark squares background
