@@ -10,13 +10,12 @@
 
 ---
 
-- 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
-- 🔭 Currently working on: Full Stack Web Apps using MERN  
-- 👯 Open to collaborate on real-world full-stack projects & hackathons  
-- 💬 Ask me about React, Node.js, MongoDB, SQL, Java  
+- 🎓 B.Tech CSE (Gaming Technology) Student at VIT Bhopal (2022–2026)
+- 🔭 Currently working on: Unreal & Unity Game Engines  
+- 💬 Ask me about React, JavaScript, Node.js, SQL, Unity, Unreal, Blender, Premiere Pro, AWS  
 - 📫 Email: nehra2901@gmail.com  
 - 💼 LinkedIn: [Ashish Nehra](https://www.linkedin.com/in/ashishnehra1/)  
-- ⚡ Fun fact: I love coding interfaces as much as organizing club events 🎨💻  
+- ⚡ Fun fact: I love crafting immersive gaming experiences and storytelling through editing 🎮🎬 
 
 ---
 
@@ -26,11 +25,13 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ---
 
