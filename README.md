@@ -7,9 +7,9 @@
 
 - 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
 - 🔭 Currently working on: Full Stack Web Apps using MERN  
-- 👯 Open to collaborate on real-world full stack projects & hackathons  
+- 👯 Open to collaborate on real-world full-stack projects & hackathons  
 - 💬 Ask me about React, Node.js, MongoDB, SQL, Java  
-- 📫 Email: aaryansinghrawat20044@gmail.com  
+- 📫 Email: nehra2901@gmail.com  
 - 💼 LinkedIn: [Ashish Nehra](https://www.linkedin.com/in/ashishnehra1/)  
 - ⚡ Fun fact: I love coding interfaces as much as organizing club events 🎨💻  
 
@@ -71,6 +71,6 @@
 <a href="https://www.linkedin.com/in/ashishnehra1/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:nehra2901@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nehra2901@gmail.com target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
